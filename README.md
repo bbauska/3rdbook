@@ -1,2 +1,3 @@
-# 3rdbook
-The 3rd book in a sequence.
+# 2ndBook.bauska.org
+
+Book layout.  Topics; Crop Circles & UFO's.
